@@ -2,6 +2,7 @@ ZMIANY
 =====
 1. Można używać dodatkowych bibliotek
 2. Serwer udający prawdziwy jest na porcie 8001
+3. Przy błędzie  serwer w zadaniu 1 powinien zwrócić 404
 
 Informacje ogólne
 ======
