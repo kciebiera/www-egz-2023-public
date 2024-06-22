@@ -4,6 +4,7 @@ ZMIANY
 2. Serwer udający prawdziwy jest na porcie 8001
 3. Przy błędzie  serwer w zadaniu 1 powinien zwrócić 404
 4. Uściślenie pkt1 w zad 2
+5. Jest jeden seed w zad 1 pkt 4
 
 Informacje ogólne
 ======
@@ -31,7 +32,7 @@ Twoim celem jest uzupełnienie kodu w pliku `zad1.py`, który zawiera początkow
 1. **Pobieranie liczby zdań - 2 pkt:** Pobiera stronę o podanym seedzie z serwera symulującego stronę internetową i zwraca liczbę zdań na tej stronie. Uwaga: zdania zawsze zaczynają się od wielkiej litery i kończą się kropką.
 2. **Pobieranie liczby odnośników - 3 pkt:** Pobiera stronę o podanym seedzie i zwraca liczbę odnośników (linków) na niej. W tym punkcie ważne jest prawidłowe obsłużenie potencjalnych błędów, takich jak brak strony o danym seedzie albo błąd połączenia z serwerem. W pozostałych punktach nie musisz się martwić o obsługę błędów.
 3. **Pobieranie stron z linkami (głębokość 1) - 2 pkt:** Pobiera strony o podanych seedach, a także wszystkie strony, do których można przejść z nich jednym kliknięciem. Zwraca listę wszystkich pobranych stron (wraz z ich seedami) oraz liczbę zdań na każdej z nich.
-4. **Pobieranie stron z linkami (głębokość k) - 3pkt:** Pobiera strony o podanych seedach oraz wszystkie strony osiągalne z nich poprzez maksymalnie k kliknięć (k ≤ 3), eliminując duplikaty. Zwraca unikalną listę pobranych stron (wraz z seedami) i liczbę zdań na każdej stronie. Limit czasu wykonania: 60 sekund.
+4. **Pobieranie stron z linkami (głębokość k) - 3pkt:** Pobiera stronę o podanym seedzie oraz wszystkie strony osiągalne z niej poprzez maksymalnie k kliknięć (k ≤ 3), eliminując duplikaty. Zwraca unikalną listę pobranych stron (wraz z seedami) i liczbę zdań na każdej stronie. Limit czasu wykonania: 60 sekund.
 
 Uwagi:
 ---
