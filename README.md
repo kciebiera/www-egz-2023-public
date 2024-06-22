@@ -11,7 +11,7 @@ Zadanie 1: Serwer FastAPI
 Cel
 ---
 
-W tym zadaniu stworzysz serwer FastAPI (`zad1.py`), który będzie komunikował się z innym serwerem (`zad1-server.py`) symulującym prawdziwą stronę internetową. Dzięki temu przetestujemy Twoje umiejętności pracy z FastAPI bez konieczności korzystania z zewnętrznych zasobów. Po uruchomieniu Twojego serwera na porcie 8001, będziesz mógł używać przeglądarki do interakcji z nim.
+W tym zadaniu stworzysz serwer FastAPI (`zad1.py`), który będzie komunikował się z innym serwerem (`zad1-server.py`) symulującym prawdziwą stronę internetową. Dzięki temu przetestujemy Twoje umiejętności pracy z FastAPI bez konieczności korzystania z zewnętrznych zasobów. Po uruchomieniu serwera symulującego prawdziową stronę internetową na porcie 8001, będziesz mógł używać przeglądarki do interakcji z nim.
 
 Jedynym plikiem, który należy oddać w tym zadaniu, to `zad1.py`
 
