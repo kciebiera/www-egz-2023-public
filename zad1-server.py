@@ -32,8 +32,8 @@ template_str = """
 @app.get("/", response_class=HTMLResponse)
 async def read_root(request: Request, seed: int | None = None):
     if seed:
-        Faker.seed(seed)  # Set the seed for Faker
         await asyncio.sleep(10)
+        Faker.seed(seed)  # Set the seed for Faker
     else:
         Faker.seed(1337)
     content = ""
