@@ -1,9 +1,15 @@
+ZMIANY
+=====
+1. Można używać dodatkowych bibliotek
+2. Serwer udający prawdziwy jest na porcie 8001
+
 Informacje ogólne
 ======
 
 1. Zadania programistyczne są dwa, za pierwsze można uzyskać 10 punktów, za drugie 8 punktów, łącznie z 2 punktami za test, maksymalna liczba punktów do zdobycia wynosi 20.
 2. W każdym z zadań jest precyzyjnie napisane jakie pliki należy oddać.
 3. Proszę w każdym z oddawanych plików wpisać w komentarzu swoje imię i nazwisko.
+4. Można używać dodatkowych bibliotek w pythonie, proszę to wpisać w oddawanym pliku
 
 Zadanie 1: Serwer FastAPI
 =====
