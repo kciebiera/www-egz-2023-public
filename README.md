@@ -5,6 +5,8 @@ ZMIANY
 3. Przy błędzie  serwer w zadaniu 1 powinien zwrócić 404
 4. Uściślenie pkt1 w zad 2
 5. Jest jeden seed w zad 1 pkt 4
+6. Kolejność odpowiedzi w pkt 3 i pkt 4 zadania 1 się nie liczy
+7. Jest (niecelowy) błąd w jednej z odpowiedzi przykładowych (zła liczba zdań)
 
 Informacje ogólne
 ======
