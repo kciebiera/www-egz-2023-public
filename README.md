@@ -3,6 +3,7 @@ ZMIANY
 1. Można używać dodatkowych bibliotek
 2. Serwer udający prawdziwy jest na porcie 8001
 3. Przy błędzie  serwer w zadaniu 1 powinien zwrócić 404
+4. Uściślenie pkt1 w zad 2
 
 Informacje ogólne
 ======
@@ -53,7 +54,7 @@ Oddać należy `zad2.ts`, `zad2.js` i `README-zad2.md`
 Wymagania
 ----
 
-1. **Stworzenie klienta WebSocket - 2 pkt:** Zaimplementuj klienta w pliku zad2.ts, który nawiąże połączenie z serwerem WebSocket i będzie reagował na zmiany cen wyświetlane przez serwer.
+1. **Stworzenie klienta WebSocket - 2 pkt:** Zaimplementuj klienta w pliku zad2.ts, który nawiąże połączenie z serwerem WebSocket, pobierze jednorazowo aktualną cenę z serwera i będzie reagował na zmiany cen wyświetlane przez serwer.
 2. **Wyświetlanie ceny - 2 pkt:** Wyświetl otrzymaną od serwera cenę w odpowiednim miejscu na stronie zad2.html. Na stronie powinna być wyświetlona tylko jedna, aktualna cena.
 3. **Obsługa błędów - 2 pkt:** Zapewnij obsługę błędów, takich jak utrata połączenia z serwerem czy nieprawidłowe dane. Wyświetl stosowny komunikat w przypadku wystąpienia błędu i daj użytkownikowi możliwość
 ponownego połączenia się do serwera bez przeładowywania całej strony.
