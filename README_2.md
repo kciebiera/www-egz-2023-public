@@ -6,7 +6,7 @@ Informacje ogólne
 3. Egzamin trwa od 14:10 do 17:00.
 
 Cel zadania:
-=====
+---
 
 Stworzenie serwisu umożliwiającego zapisywanie i odczytywanie wartości kursów akcji. 
 Kurs to wartość przypisana do konkretnej etykiety. Etykiety i nazwy firm są znane i ustalone:
@@ -38,12 +38,12 @@ Zaimplementuj serwer FastAPI, który udostępnia następujące metody (każda z 
 Możesz przechowywać dane w pamięci, pliku, bazie danych albo innym dogodnym dla siebie formacie.
 
 Przechowywanie danych
-====
+----
 
 Możesz wybrać dowolną metodę przechowywania danych: w pamięci, w pliku, w bazie danych lub inną, która Ci odpowiada.
 
 Uwagi
-====
+----
 
 1. **Modele Pydantic:** Dla metod 2-3 przygotuj modele Pydantic do walidacji danych wejściowych i wyjściowych.
 2. **Dokumentacja:** Każdy endpoint powinien posiadać krótką dokumentację (1-2 zdania), dostępną w automatycznie generowanej dokumentacji FastAPI (pod adresem /docs).
