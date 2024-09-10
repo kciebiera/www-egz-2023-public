@@ -50,13 +50,15 @@ Uwagi
 3. **Przykładowe testy:** Zaimplementuj przykładowe testy.
 
 
-Klient w TypeScript
+Klient w TypeScript i HTML
 ======
 
 Stwórz klienta w TypeScript, który umożliwia korzystanie z wszystkich metod serwera FastAPI.
 
 - Dla metody 3 (n najnowszych wartości) klient powinien wyświetlić dane w tabeli z kolumnami: data zmiany i wartość.
 - Dla metody 4 (wartości kursów) klient powinien wyświetlić dane w tabeli z kolumnami: nazwa firmy, etykieta, wartość. W tym przypadku konieczne będą dwa wywołania do FastAPI.
+
+Podepnij metody klienta do strony w HTML (czyli powinno się dać wywowłać każdą metodę FastAPI klikając w przeglądarce)
 
 Uwagi ogólne
 ======
