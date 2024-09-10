@@ -1,7 +1,9 @@
 Informacje ogólne
 ======
 
-Jest jedno zadanie programistyczne składające się z kilku punktów. Egzamin trwa od 14:10 do 17:00.
+1. Jest jedno zadanie programistyczne składające się dwóch części każda ma kilka punktów. 
+2. Oddać należy całość (jeden plik .zip)
+3. Egzamin trwa od 14:10 do 17:00.
 
 Cel zadania:
 =====
